@@ -5,4 +5,4 @@ public class user {
         stack s=new stack();
         System.out.println(s.count);
     }
-}
+}g

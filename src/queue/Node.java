@@ -1,4 +1,4 @@
-package stack;
+package queue;
 
 public class Node {
     public Object ele;
